@@ -5,11 +5,19 @@ Idris Kuti, Gautam Matta, Akash Nikam, Junfei Xia, Chris Walker
 You can view the working web app here:
 https://team-105-project.shinyapps.io/web-application/
 
+You can read the report under the docs folder
+
+
+
 ## Description
 
-This is the project repository for Team 105. We built a recommendation engine
+StratusHere is an interactive web application which allows small business owners to determine the viability of locations for their business type and annual sales volume. This helps small businesses and non-technical stakeholders make data driven decisions about their location.
+Using only simple inputs (zip code, business category, and sales estimate) we generate recommendations for properties using stored data. The application serves all Atlanta zip codes.
+
+
+{This is the project repository for Team 105. We built a recommendation engine
 which uses real-world business data in the Atlanta Metro area to recommend
-suitable locations for small business expansion.
+suitable locations for small business expansion.}
 
 This project is divided into three core parts:
 * Data collection
