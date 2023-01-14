@@ -5,7 +5,7 @@ Idris Kuti, Gautam Matta, Akash Nikam, Junfei Xia, Chris Walker
 You can view the working web app here:
 https://team-105-project.shinyapps.io/web-application/
 
-You can read the report under the docs folder
+You can read the report or a one page summary of this project in team105poster file under the docs folder
 
 
 
